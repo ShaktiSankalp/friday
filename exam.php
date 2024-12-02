@@ -1,1 +1,31 @@
-ete for php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ a.create a php script that accepts a comma seperated list of product names from a form and stores them into an array.Sisplay the list of products in alphabetical order 
+b. write the sorted product names to a text file . if the file already exists append the new list ensuring there are no dupplicate entries
